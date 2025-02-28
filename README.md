@@ -21,6 +21,11 @@ git clone https://github.com/georgiaithelpers/Portable_SerialTree.git
 cd Portable_SerialTree
 
 ```
+### აპლიკაციის გამართული მუშაობისთვის დააყენეთ შემდეგი პაკეტები Linux და Termux-ზე
+```bash
+sudo apt install php-sqlite3
+```
+### Windows-ისთვის გამოიყენეთ MAMP, XAMPP ან Wamp სერვერი
 
 ## **მნიშვნელოვანი შენიშვნა**
 
@@ -34,5 +39,5 @@ cd Portable_SerialTree
 http://127.0.0.1:5000
 
 ```
-![alt text](Portable_SerialTree.png "სერიალების მენეჯერი")
+![სერიალების მენეჯერი](Portable_SerialTree.png "სერიალების მენეჯერი")
 
