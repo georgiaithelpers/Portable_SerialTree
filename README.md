@@ -17,8 +17,8 @@ Portable SerialTree არის მსუბუქი და მოსახე
 
 ```bash
 # კოდის გადმოწერა
-git clone https://github.com/your-repo/series-manager.git
-cd series-manager
+git clone https://github.com/georgiaithelpers/Portable_SerialTree.git
+cd Portable_SerialTree
 
 ```
 
@@ -34,5 +34,5 @@ cd series-manager
 http://127.0.0.1:5000
 
 ```
-
+![alt text](Portable_SerialTree.png "სერიალების მენეჯერი")
 
